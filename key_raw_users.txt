@@ -1,0 +1,15 @@
+cardId
+assignedUserId
+assignedUserFullName
+assignedUserEmailAddress
+assignedByUserId
+assignedToDate
+cardTitle
+cardSize
+priority
+cardTypeId
+cardTypeTitle
+currentBoardId
+currentBoardTitle
+assignedByUserEmailAddress
+assignedByUserFullName

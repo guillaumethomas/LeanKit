@@ -1,0 +1,63 @@
+-----------------------------------------------------------
+    Leankit project 
+-----------------------------------------------------------
+
+https://support.leankit.com/hc/en-us/articles/115000323287-Advanced-Reporting-API-Getting-Started
+
+
+1. api wrapper 
+	a. get the token 
+
+	b. data to extract:
+		1. cards (API call Cards)
+		2. users (API Call current users)
+		3. lanes (API Call current lane)
+		4. History (APU Card Lane history )
+
+2. 
+
+
+-----------------------------------------------------------
+    Data Structures
+-----------------------------------------------------------
+
+- class leankit token
+
+- class board_data 
+
+!very important
+
+- class board that will a have a collection of cards 
+- class card
+
+
+!Organize data per:
+
+- projects
+- cards per type 
+- cards per users => users type 
+- class projects => 
+
+=> aggregaete 
+
+
+-----------------------------------------------------------
+    Strategy
+-----------------------------------------------------------
+
+- get token
+- make requests 
+
+
+-----------------------------------------------------------
+    GOALS
+-----------------------------------------------------------
+
+- list of projects
+- list of cards per projects 
+- list of cards per lane 
+
+==> projects completion 
+==> total number of points / cards per projects 
+
+==> 

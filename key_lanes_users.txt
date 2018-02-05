@@ -1,0 +1,9 @@
+cardId
+externalCardId
+cardTitle
+laneEntryDate
+laneExitDate
+laneId
+laneTitle
+boardId
+boardTitle
